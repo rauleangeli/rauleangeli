@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**rauleangeli/rauleangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rauleangeli/rauleangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Engineer, web developer and team leader. Looking for the perfect code everyday...
 
