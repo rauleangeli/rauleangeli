@@ -1,9 +1,15 @@
-### Hi there 👋
+### 👋 Hi there, my name is Raúl Angeli
 
 <!--
 **rauleangeli/rauleangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Engineer, web developer and team leader. Looking for the perfect code everyday...
+
+##Skills
+![php](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white&labelColor=777bb4)</br>
+
+
+
 
 ### More about me
 
