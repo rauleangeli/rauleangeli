@@ -8,8 +8,8 @@ Engineer, web developer and team leader. Looking for the perfect code everyday..
 ## Skills:
 
 ![php](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white&labelColor=333333)</br>
-![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=333333)</br>
-![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScriptphp&logoColor=white&labelColor=333333)</br>
+![css2](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=333333)</br>
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScriptphp&logoColor=white&labelColor=333333)</br>
 
 
 
