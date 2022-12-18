@@ -3,6 +3,12 @@
 <!--
 **rauleangeli/rauleangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Engineer, web developer and team leader. Looking for the perfect code everyday...
+
+#### More about me
+
+- [Linkedin]([https://](https://www.linkedin.com/in/raulangeli/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
