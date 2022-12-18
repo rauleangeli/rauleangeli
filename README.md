@@ -5,9 +5,9 @@
 
 Engineer, web developer and team leader. Looking for the perfect code everyday...
 
-##Skills
+###Skills
 ![php](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white&labelColor=777bb4)</br>
-
+![php](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)</br>
 
 
 
