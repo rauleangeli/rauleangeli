@@ -14,8 +14,6 @@ Engineer, web developer and team leader. Looking for the perfect code everyday..
 ### A few projects
 
 - (JS) Car insurance quote simulator: https://prototypes-insurance-quote.netlify.app/
-- (JS) Shopping cart simulator: https://mellifluous-lamington-0f04cf.netlify.app/
-
 
 
 ### More about me
