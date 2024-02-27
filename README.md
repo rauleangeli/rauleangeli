@@ -13,8 +13,8 @@ Engineer, web developer and team leader. Looking for the perfect code everyday..
 
 ### A few projects
 
-- (JS) Car insurance quote simulator: [https://prototypes-insurance-quote.netlify.app/](https://prototypes-insurance-quote.netlify.app/){:target="_blank"}
-- (React) Veterinarian clinic appointment manager: [https://react-appointment-manager.netlify.app](https://react-appointment-manager.netlify.app/){:target="_blank"}
+- (JS) Car insurance quote simulator: https://prototypes-insurance-quote.netlify.app/
+- (React) Veterinarian clinic appointment manager: https://react-appointment-manager.netlify.app
 
 
 ### More about me
