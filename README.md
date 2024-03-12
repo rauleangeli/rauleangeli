@@ -18,6 +18,7 @@ Engineer, web developer and team leader. Looking for the perfect code everyday..
 - (JS) Car insurance quote simulator: https://prototypes-insurance-quote.netlify.app/
 - (React) Veterinarian clinic appointment manager: https://react-appointment-manager.netlify.app
 - (React) Expenses control application: https://expenses-planner-react-exercise.netlify.app/
+- (React) Cryptocurrency price checkr: https://cryptos-price-checker-react.netlify.app/
 
 
 ### More about me
